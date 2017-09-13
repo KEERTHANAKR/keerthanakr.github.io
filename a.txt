@@ -1,1 +1,12 @@
-asd
+git add . -A
+git commit -m "commit message"
+git push -u origin master
+
+
+if deleting the .git folder
+
+git init
+git add . -A
+git remote add origin "https://github.com/KEERTHANAKR/keerthanakr.github.io.git"
+git commit -m "commit message"
+git push -u origin master
